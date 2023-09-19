@@ -36,8 +36,8 @@ for smb_target_ip in  open_smb_shares:
     if smb_connection.login(username, password):
         print(f"(+) Logged in to {smb_target_ip} successfully")
         
-        # Now you can perform actions on the SMB share
-        # ...
+        # Actions
+        # 
 
         # Logout when done
         smb_connection.logout()
