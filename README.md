@@ -43,5 +43,3 @@ python scangrab.py [TARGET_IP_RANGE]
 
 `python scangrab.py 192.168.1.0/24`
 
-
-![cccc](https://github.com/abdomagdy0/SMB-Grab/assets/91535529/63e48e67-7190-441d-ba97-a065abc819dd)
